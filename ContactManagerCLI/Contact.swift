@@ -5,4 +5,7 @@
 //  Created by kanu priya on 13/03/26.
 //
 
-import Foundation
+struct Contact{
+    var name: String //using var bc we might need to change the information
+    var number: String
+}
